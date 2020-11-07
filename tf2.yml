@@ -1,0 +1,6 @@
+name: tf2
+channels:
+  - defaults
+dependencies:
+  - python=3.7
+prefix: C:\caiyongji\ML\envs\
