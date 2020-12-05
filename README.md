@@ -19,5 +19,11 @@ conda info --envs
 
 ## pip install 
 ```
-pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow-cpu tensorflow-datasets tf-agents matplotlib pandas scikit-learn scikit-image ipython jupyter keras gym lxml xlrd openpyxl sqlalchemy graphviz
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow-cpu tensorflow-datasets tf-agents matplotlib pandas scikit-learn scikit-image ipython jupyter keras gym lxml xlrd openpyxl sqlalchemy jupyterlab seaborn
 ```
+
+### graphviz
+1. pip install -i https://pypi.tuna.tsinghua.edu.cn/simple graphviz
+2. install for Windows:https://www2.graphviz.org/Packages/stable/windows/10/msbuild/Release/Win32/graphviz-2.44.1-win32.zip
+3. config `bin` to PATH. eg: C:\caiyongji\ML\Graphviz\bin
+
