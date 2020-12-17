@@ -19,7 +19,7 @@ conda info --envs
 
 ## pip install 
 ```
-pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow-cpu tensorflow-datasets tf-agents matplotlib pandas scikit-learn scikit-image ipython jupyter keras gym lxml xlrd openpyxl sqlalchemy jupyterlab seaborn tabulate
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow-cpu tensorflow-datasets tf-agents matplotlib pandas scikit-learn scikit-image ipython jupyter keras gym lxml xlrd openpyxl sqlalchemy jupyterlab seaborn tabulate pydot pydotplus
 ```
 
 ### graphviz
@@ -29,3 +29,6 @@ pip install -i https://pypi.tuna.tsinghua.edu.cn/simple tensorflow-cpu tensorflo
 
 ### tabulate
 pandas to markdown
+
+### pydot pydotplus
+pip install -i https://pypi.tuna.tsinghua.edu.cn/simple pydot pydotplus
